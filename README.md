@@ -1,1 +1,3 @@
 # ML_product_price_predictionSTH
+
+A study is carried out to predict the price of 2 products in the sales catalog, taking into account the variables of the applied offers and the area of residence. To carry out this project, there are 43,400 sales records made by 10 thousand saleswomen, with data from the last 4 years. Turning out to be the best model with the Decision Tree Regressor algorithm, obtaining an MAE of 1.2 for product 1 and 0.8 for product 2 and RMSE of 4.7 for product 1 and 1.8 for product 2.
